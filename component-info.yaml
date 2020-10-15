@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "sje-scaf-test1"
+  description: "cd"
+  annotations:
+    github.com/project-slug: "SuganJoe/sje-scaf-test1"
+    backstage.io/techdocs-ref: github:https://github.com/SuganJoe/sje-scaf-test1
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "SuganJoe"

@@ -1,0 +1,8 @@
+site_name: "sje-scaf-test1"
+site_description: "cd"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
